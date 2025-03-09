@@ -1,0 +1,3 @@
+timestamp,project_name,run_id,experiment_id,duration,emissions,emissions_rate,cpu_power,gpu_power,ram_power,cpu_energy,gpu_energy,ram_energy,energy_consumed,country_name,country_iso_code,region,cloud_provider,cloud_region,os,python_version,codecarbon_version,cpu_count,cpu_model,gpu_count,gpu_model,longitude,latitude,ram_total_size,tracking_mode,on_cloud,pue
+2025-03-09T00:18:29,codecarbon,4c4e4bab-beba-411b-b8c8-d7371d6768e7,5b0fa12a-3dd7-45bb-9766-cc326314d9f1,0.0130079,3.27e-10,2.51e-08,42.5,0.0,5.898877144,1.36e-07,0.0,1.83e-09,1.38e-07,Canada,CAN,quebec,,,Windows-11-10.0.26100-SP0,3.12.1,2.8.3,12.0,12th Gen Intel(R) Core(TM) i5-12450H,,,-71.2,46.8,15.73033905,machine,N,1.0
+
